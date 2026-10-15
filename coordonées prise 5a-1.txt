@@ -1,0 +1,33 @@
+coordonées prise 5a-1
+
+
+FinD - 10/17   5a-V1-1.png,V1,157,271,top      
+
+FinG - 6/17    5a-V1-1.png,V1,99,271,top
+
+Pied1 - 6/0    5a-V1-1.png,V1,99,28,foot
+
+Pied2 - 9/2    5a-V1-1.png,V1,142,56,foot	
+
+Pied3 - 5/4    5a-V1-1.png,V1,85,85,foot
+
+
+
+5a-V1-1.png,V1,6.0,1.5,foot
+5a-V1-1.png,V1,9.0,3.0,foot
+5a-V1-1.png,V1,5.0,5.0,foot
+5a-V1-1.png,V1,10.0,18.5,top
+5a-V1-1.png,V1,6.0,18.5,top
+
+
+
+
+
+
+
+
+
+
+
+
+

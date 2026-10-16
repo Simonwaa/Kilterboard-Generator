@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "91adc0b98d68e9bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14031219cf97050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c33ab1c7c174335c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-15 14.33.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-15 14.33.48.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae47269d5a04983a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cc1a25ca6fc64f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42d1e91d5c1e981b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "da0f2eff6b75d603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "41a2d6d0600d92db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ff5c6491d0e9de85",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddf3774d6dd83c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bfd568d3da4adc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "6a51b634a0958b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "3340ca7a3c864317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "68e56eced96b2efb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "22d04e622ccc01c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "42d1e91d5c1e981b",
+  "lastOpenFiles": [
+    "src",
+    "Nouveau dossier",
+    "notebook/Kilterboard.ipynb",
+    "notebook",
+    "notes/coordonées prise 5a-1.txt",
+    "Excalidraw/Drawing 2026-10-15 14.33.48.excalidraw.md",
+    "Sans titre.md",
+    "notes",
+    "data/processed/grade_mapping.csv",
+    "data/processed/dataset_kilter.csv",
+    "src/Kilterboard.ipynb",
+    "data/arrays/y_kilter_labels.npy",
+    "data/arrays/X_kilter_tensor.npy",
+    "data/raw/Dataset/V8/7b-V8-998.png",
+    "data/raw/Dataset/V8/7b-V8-993.png",
+    "data/raw/Dataset/V8/7b-V8-997.png",
+    "data/raw/Dataset/V8/7b-V8-991.png",
+    "data/raw/Dataset/V8/7b-V8-995.png",
+    "data/raw/Dataset/V8/7b-V8-992.png",
+    "data/raw/Dataset/V8/7b-V8-990.png",
+    "data/raw/Dataset/V8/7b-V8-989.png",
+    "data/raw/Dataset/V8/7b-V8-988.png",
+    "data/raw/Dataset/V8/7b-V8-986.png",
+    "README.md",
+    "Dataset/Sans titre.md"
+  ]
+}

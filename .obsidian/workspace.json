@@ -11,12 +11,14 @@
             "id": "c33ab1c7c174335c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-15 14.33.48.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-15 14.33.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -187,21 +189,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42d1e91d5c1e981b",
+  "active": "c33ab1c7c174335c",
   "lastOpenFiles": [
+    "Sans titre.md",
+    "notebook/dataset_kilter.csv",
     "src",
     "Nouveau dossier",
     "notebook/Kilterboard.ipynb",
     "notebook",
     "notes/coordonées prise 5a-1.txt",
     "Excalidraw/Drawing 2026-10-15 14.33.48.excalidraw.md",
-    "Sans titre.md",
     "notes",
     "data/processed/grade_mapping.csv",
     "data/processed/dataset_kilter.csv",
     "src/Kilterboard.ipynb",
-    "data/arrays/y_kilter_labels.npy",
-    "data/arrays/X_kilter_tensor.npy",
     "data/raw/Dataset/V8/7b-V8-998.png",
     "data/raw/Dataset/V8/7b-V8-993.png",
     "data/raw/Dataset/V8/7b-V8-997.png",
